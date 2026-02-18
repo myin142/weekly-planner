@@ -468,45 +468,6 @@
 		color: #0f172a;
 	}
 
-	.hero {
-		display: flex;
-		flex-wrap: wrap;
-		align-items: center;
-		justify-content: space-between;
-		gap: 1.5rem;
-		background: linear-gradient(120deg, #ffffff, #eef2ff);
-		border-radius: 20px;
-		padding: 2rem 2.5rem;
-		box-shadow: 0 20px 45px rgba(15, 23, 42, 0.08);
-	}
-
-	.eyebrow {
-		text-transform: uppercase;
-		letter-spacing: 0.12em;
-		font-size: 0.72rem;
-		color: #6366f1;
-		font-weight: 700;
-		margin: 0 0 0.5rem;
-	}
-
-	h1 {
-		margin: 0 0 0.5rem;
-		font-size: clamp(2rem, 3vw, 2.6rem);
-		line-height: 1.15;
-	}
-
-	.subhead {
-		margin: 0;
-		color: #475569;
-		max-width: 480px;
-	}
-
-	.actions {
-		display: flex;
-		flex-wrap: wrap;
-		gap: 0.75rem;
-	}
-
 	button {
 		border: none;
 		border-radius: 999px;
